@@ -23,7 +23,7 @@ ArriveSteeringBehaviors(15pts)
 Implement the arrive algorithm we covered in class. Have your shape arrive at the location of mouse clicks. You can implement this by using Processing’s mousePressed() method. Make sure your shape is oriented in the direction of travel. Recall that you can accomplish this by implementing an orientation matching steering behavior. Test out at least two different methods for implementing arriving (this may include, but is not limited two, two different sets of parameters for the arrive algorithm). Which looks better? Why? Which is more successful? Why? It is probably a good idea to take a series of screenshots to illustrate your results. Save and label this ﬁle as “arrive-steering”.
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Movement/master/images/wander.png" width="480" height="360" border="10">
+<img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Movement/master/images/wandering.png" width="480" height="360" border="10">
  </p>
 
 WanderSteeringBehaviors(15pts)
