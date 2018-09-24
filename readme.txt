@@ -1,14 +1,19 @@
 CSC 584/484 Spring 17 Homework 1: Movement
 
 Overview
-Your task for this assignment is to explore various movement algorithms. Using Processing, you will implement various dynamic movement algorithms and compare their performance. You will submit your code and 3–5 page writeup of your results, including screenshots where appropriate. This is an individual assignment, you are to work alone. As always, you are expected to abide by the University’s Academic Integrity Policy(http://policies.ncsu.edu/policy/pol-11-35-01), which includes providing appropriate attribution for all external sources of information consulted while working on this assignment.
+Your task for this assignment is to explore various movement algorithms. Using Processing, you will implement various dynamic movement algorithms and compare their performance. 
 
 RUNNING THE CODE 
 1. Open Eclipse and import the individual java project from the sub folder where this file resides.
 2. Add core.jar of the processing library and add to build path
 3. Run the code and use this procedure for all the subparts.
 
-KinematicMotion(5pts)
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Movement/blob/master/images/kinematic.png" width="480" height="360" border="10">
+ </p>
+
+Kinematic Motion(5pts)
 Create a data structure to hold your steering and kinematic variables like the one we discussed in class. Make sure you include methods for getting the orientation from direction of motion,getting the direction of motion from orientation, and for applying the standard update. Using kinematic motion,have your shape start at the bottom left corner of the screen,and traverse around the edge until it returns to its starting location. Make sure to leave breadcrumbs as your shape traverses the screen. Save your code and label it “basic-motion”. It is probably a good idea to take a screenshot of your shape and the breadcrumbs after it completes its tour for inclusion in your writeup.
 
 ArriveSteeringBehaviors(15pts)
