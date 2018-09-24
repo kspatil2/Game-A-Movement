@@ -8,6 +8,7 @@ RUNNING THE CODE
 2. Add core.jar of the processing library and add to build path
 3. Run the code and use this procedure for all the subparts.
 
+https://github.com/Kshitij-Patil/Game-AI-Movement/blob/master/images/kinematic.png
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Movement/blob/master/images/kinematic.png" width="480" height="360" border="10">
