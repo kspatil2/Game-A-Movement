@@ -11,7 +11,7 @@ RUNNING THE CODE
 https://github.com/Kshitij-Patil/Game-AI-Movement/blob/master/images/kinematic.png
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Movement/blob/master/images/kinematic.png" width="480" height="360" border="10">
+<img src="https://raw.githubusercontent.com/Kshitij-Patil/Game-AI-Movement/master/images/kinematic.png" width="480" height="360" border="10">
  </p>
 
 Kinematic Motion(5pts)
